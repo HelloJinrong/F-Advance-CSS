@@ -45,9 +45,8 @@ figure {
 }
 
 form {
-  margin-top: 30px;
+  align-self: center;
   background-color: #ccc;
-  margin-top: 300px;
   background-color: #ccc;
   height: 200px;
   padding-top: 20px;
